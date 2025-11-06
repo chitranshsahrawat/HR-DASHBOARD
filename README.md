@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
@@ -82,3 +83,7 @@ hr-dashboard/
 │   │── src/server.ts
 │   │── package.json
 │── README.md
+=======
+# HR-DASHBOARD
+An AI-powered HR Dashboard that simplifies employee management with real-time analytics, smart insights, and a modern UI. Built with React, TypeScript, Node.js, and Gemini AI, it helps HR teams track performance, analyze data, and make faster, data-driven decisions.
+>>>>>>> 3edee2cf3e7dab44b9acf2553fdfb643b463c178

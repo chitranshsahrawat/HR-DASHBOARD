@@ -1,0 +1,8 @@
+{
+  "name": "HR Dashboard",
+  "description": "A comprehensive HR management dashboard to streamline employee and project tracking. Features include employee CRUD operations, project management, and an AI-powered chat assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
